@@ -1,0 +1,25 @@
+body{
+	font-family: 'Roboto', sans-serif; 
+}
+section{
+	background-image: url("../images/bannerimg.png");
+	height: 635px;
+}
+.bg-countom{
+	background-color: #0f414ce8
+}
+.centered {
+	position: absolute;
+    top: -40px;
+    left: 55%;
+    transform: translate(-100%, 0%);
+}
+.c_font{
+	font-weight: 500;
+	font-size: 16px;
+	color: #FEA71A;
+
+}
+.radious{
+	border-radius: 20px;
+}
