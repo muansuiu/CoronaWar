@@ -1,0 +1,121 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family: 'Roboto', sans-serif; 
+}
+/*header start*/
+header{
+	background-color: #f2f1fd;
+}
+.menu ul li a{
+	font-size: 14px;
+	color: #080746 !important;
+	padding: 0 20px !important;
+	transition: 1s;
+}
+.menu ul li a:hover{
+	color: #fea71a !important;
+}
+/*header end*/
+/*cases start*/
+.custom_padding{
+	padding: 150px 25px 0 25px;
+}
+.custom_h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 25px;
+	color: #706ad4;
+}
+.c_border{
+	border-radius: 10px;
+    border: 3px solid #fea71a;
+}
+.coustom_margin1{
+	margin-left: 20px;
+	border-radius: 20px;
+}
+.coustom_margin2{
+	margin-left: 26px;
+	border-radius: 20px;
+}
+.coustom_margin3{
+	margin-left: 13px;
+	border-radius: 20px;
+}
+/*cases end*/
+/*privent start*/
+.prevention{
+	padding-top: 100px;
+    padding-bottom: 50px;
+}
+.custom_h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 45px;
+	color: #706ad4;
+}
+.pre_item{
+	padding: 50px 25px 0 25px;
+}
+.pre_item label{
+	font-weight: 500;
+	font-size: 20px;
+	color: #080746;
+	padding-top: 15px;
+}
+
+/*privent end*/
+/*footer start*/
+footer{
+	background-color: #6c69b0;
+	padding-top: 50px;
+}
+.coronawar{
+}
+.coronawar h3{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	color: #ffffff;
+}
+.coronawar h3 span{
+	color: #fea71a;
+}
+.coronawar p{
+	font-weight: 300;
+	font-size: 14px;
+	color: #ffffff;
+}
+.f_contact ul li a{
+	font-weight: 300;
+	font-size: 14px;
+	color: #ffffff;
+	text-decoration: none;
+	transition: 1s;
+}
+.f_contact ul li a:hover{
+	color: #fea71a;
+}
+.designed{
+	background-color: #5a56af;
+	padding: 20px 0 5px 0px;
+	border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.designed h2{
+	font-weight: 300;
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+}
+.designed h2 a{
+	color: #fea71a;
+	text-decoration: none;
+	transition: 1s;
+}
+.designed h2 a:hover{
+	color: #ffffff;
+}
+/*footer end*/
