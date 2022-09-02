@@ -1,0 +1,426 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.l_img {
+		width: 70%;
+	}
+	.menu ul li a {
+		text-align: right;
+		padding-right: 0 !important;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner {
+		padding-top: 140px;
+		padding-bottom: 50px;
+	}
+	.banner h1 {
+		font-size: 16px;
+	}
+	.banner h2 {
+		font-size: 29px;
+	}
+	.banner p {
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.btn-custom {
+		margin: 10px 5px 10px 5px;
+	}
+	.counter {
+		padding-top: 10px;
+		padding-bottom: 20px;
+	}
+	/*banner end*/
+	/*about start*/
+	.about {
+		padding-top: 0;
+	}
+	.about-content {
+		padding-top: 0px;
+		text-align: center;
+	}
+	.about-content h1 {
+		font-size: 25px;
+	}
+	.about-content p {
+		font-size: 12px;
+		line-height: 20px;
+	}
+	/*about start*/
+	/*symptoms start*/
+	.symptoms {
+		padding-top: 0;
+		padding-bottom: 50px;
+	}
+	.symptoms_text h2 {
+		font-size: 16px;
+	}
+	.symptoms_text h1 {
+		font-size: 25px;
+	}
+	.symptoms_img {
+		padding-top: 50px;
+		text-align: center;
+	}
+	.top-left {
+		position: static;
+		top: 0;
+		left: 0;
+	}
+	.top-right {
+		position: static;
+		top: 0;
+		right: 0;
+	}
+	.middle-left {
+		position: static;
+		top: 0;
+		left: 0;
+		transform: none;
+	}
+	.middle-right{
+		position: static;
+		top: 0;
+		left: 0;
+		transform: none;
+	}
+	.bottom-left {
+		position: static;
+		top: 0;
+		left: 0;
+		transform: none;
+	}
+	.bottom-right {
+		position: static;
+		top: 0;
+		left: 0;
+		transform: none;
+	}
+	/*symptoms start*/
+	/*emergency start*/
+	.emergency {
+	     padding-top: 0px; 
+	}
+	.custon_padding {
+	    padding: 40px 0px 0px 0px;
+	    text-align: center;
+	}
+	.emergency h1 {
+	    font-size: 22px;
+	}
+	.emergency p {
+	    font-size: 12px;
+	}
+	.img_pos {
+	    margin-top: 30px;
+	}
+	/*emergency end*/
+	/*prevention start*/
+	.prevention {
+	    padding-top: 20px;
+	}
+	.custom_h1 {
+	    font-size: 25px;
+	}
+	.extra-padding {
+	    padding-top: 45px;
+	}
+	/*prevention end*/
+	/*blog start*/
+	.blog_content {
+	    text-align: center;
+	}
+	.blog_content_text p {
+	    font-size: 12px;
+	}
+	.blog_content_text p:nth-child(2) {
+		padding-top: 3px;
+	}
+	/*blog end*/
+	/*faq start*/
+	.faq_content {
+	    padding-top: 50px;
+	    text-align: center;
+	}
+	.faq_content h3 {
+	    font-size: 18px;
+	}
+		.faq_content p {
+	    font-size: 14px;
+	    line-height: 25px;
+	}
+	.d_grid{
+		display: grid;
+	}
+	.form_row {
+	    padding: 25px 0 50px 0px;
+	}
+	/*faq end*/
+	/*contact start*/
+	.s_content {
+	    text-align: center;
+	}
+	/*contact end*/
+	/*footer start*/
+	.coronawar{
+		text-align: center;
+	}
+	/*footer end*/
+	/*particles*/
+	.particles-js-canvas-el {
+		margin-top: -250px;
+	}
+	/*particles*/
+
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a {
+		text-align: right;
+		padding-right: 0 !important;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner h2 {
+		font-size: 50px;
+	}
+	.banner p {
+		font-size: 14px;
+	}
+	.counter {
+		padding-top: 10px;
+		padding-bottom: 20px;
+	}
+	/*banner end*/
+	/*about start*/
+	.about {
+		padding-top: 0;
+	}
+	.about-content {
+		padding-top: 20px;
+		text-align: center;
+	}
+
+	.about-content p {
+		font-size: 14px;
+		line-height: 25px;
+	}
+	/*about start*/
+	/*symptoms start*/
+	.symptoms_text h1 {
+		font-size: 25px;
+	}
+	.top-left {
+		left: -68px;
+	}
+	.top-right {
+		right: -60px;
+	}
+	.middle-left {
+		transform: translate(-160%, 65%);
+	}
+	.middle-right {
+		transform: translate(50%, 65%);
+	}
+	.bottom-left {
+		transform: translate(-160%, 183%);
+	}
+	.bottom-right {
+		transform: translate(60%, 183%);
+	}
+	/*symptoms start*/
+	/*emergency start*/
+	.custon_padding {
+	    padding: 40px 0px 0px 0px;
+	    text-align: center;
+	}
+	.emergency h1 {
+	    font-size: 30px;
+	}
+	.emergency p {
+	    font-size: 14px;
+	}
+	.img_pos {
+	    margin-top: 30px;
+	}
+	/*emergency end*/
+	/*prevention start*/
+	.prevention {
+	    padding-top: 50px;
+	}
+	.custom_h1 {
+	    font-size: 25px;
+	}
+	/*prevention end*/
+	/*blog start*/
+	.blog_content {
+	    text-align: center;
+	}
+	/*blog end*/
+	/*faq start*/
+	.form_row {
+	    padding: 25px 0 50px 50px;
+	}
+	/*faq end*/
+	/*contact start*/
+	.s_content {
+	    text-align: center;
+	}
+	/*contact end*/
+	/*footer start*/
+	.coronawar{
+		text-align: center;
+	}
+	/*footer end*/
+	/*particles*/
+	.particles-js-canvas-el {
+	    margin-top: -380px;
+	}
+	/*particles*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a {
+		text-align: right;
+		padding-right: 0 !important;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner h2 {
+		font-size: 50px;
+	}
+	.banner p {
+		font-size: 14px;
+	}
+
+	/*banner end*/
+	/*counter start*/
+	.count-title {
+	    font-size: 30px;
+	}
+	/*counter end*/
+	/*about start*/
+	.about-content h2 {
+		font-size: 16px;
+	}
+	.about-content h1 {
+		font-size: 20px;
+	}
+	.about-content p {
+		font-size: 12px;
+		line-height: 20px;
+	}
+	/*about end*/
+	/*symptoms start*/
+	.symptoms {
+		padding-top: 0;
+    	padding-bottom: 500px;
+
+	}
+	.symptoms_text h1 {
+		font-size: 25px;
+	}
+	.top-left {
+		left: 25px;;
+	}
+	.top-right {
+		right: 25px;
+	}
+	.middle-left {
+		transform: translate(-160%, 65%);
+	}
+	.middle-right {
+		transform: translate(50%, 65%);
+	}
+	.bottom-left {
+		transform: translate(-160%, 183%);
+	}
+	.bottom-right {
+		transform: translate(60%, 183%);
+	}
+	
+	/*symptoms start*/
+	/*emergency start*/
+	.emergency h1 {
+	    font-size: 24px;
+	}
+	.emergency {
+	    padding-top: 400px;
+	}
+	/*emergency start*/
+	/*prevention start*/
+	.prevention {
+	    padding-top: 50px;
+	}
+	.custom_h1 {
+	    font-size: 25px;
+	}
+	/*prevention end*/
+	/*blog start*/
+	.blog_content h3 {
+	    font-size: 20px;
+	}
+	.blog_content_text p:nth-child(2) {
+	    padding-right: 87px;
+	    padding-top: 10px;
+	}
+	/*blog end*/
+	/*cantact start*/
+	.s_content p {
+	    font-size: 14px;
+	}
+	/*cantact end*/
+	/*footer start*/
+	.coronawar{
+		text-align: center;
+	}
+	/*footer end*/
+	/*particles*/
+	.particles-js-canvas-el {
+	    margin-top: -380px;
+	}
+	/*particles*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*symptoms start*/
+	.symptoms_text h1 {
+		font-size: 40px;
+	}
+	.top-left {
+		top: -130px;
+	}
+	.top-right {
+		top: -130px;
+	}
+	.middle-left {
+		transform: translate(-220%, 65%);
+	}
+	.middle-right {
+		transform: translate(105%, 65%);
+	}
+	.centered {
+		transform: translate(-50%, 15%);
+	}
+	.bottom-left {
+		transform: translate(-165%, 200%);
+	}
+	.bottom-right {
+		transform: translate(65%, 200%);
+	}
+	/*symptoms start*/
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
